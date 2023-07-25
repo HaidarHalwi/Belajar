@@ -1,0 +1,28 @@
+selasa, 25-7-2023
+
+pengertian html
+HTML merupakan singkatan dari "Hypertext Markup Language"
+HTML adalah bahasa markah standar yang digunakan untuk membuat dan merancang halaman web. Bahasa ini digunakan untuk menyusun struktur dan mengatur konten sebuah halaman web, seperti teks, gambar, video, tautan, dan elemen-elemen lainnya.
+
+contoh sederhana untuk html :
+<html>
+<head>
+    <title>Judul Halaman Web</title>
+</head>
+<body>
+    <p>Ini adalah contoh paragraf dalam halaman web.</p>
+</body>
+</html>
+
+sourc code di atas adalah salah satu susunan code html yang sangat sederhana
+- tag <html></html> biasa nya digunakan untuk memberitau bahwa sanya itu adalah HTML, akan tetapi tag tersebut ketika belajar sudah   
+  mengetahui lebih banyak hal, tag <html></html>tidak digunakan pun tidak jadi masalah
+
+- tag <head></head> biasanya di gunakan untuk memberikan teks nama pada sebuah file atau halaman pada website
+  head yang artinya kepala, maka bisa kita tau bahwa sanya yang paling atas itu adalah kepala, jadi teks yang di berikan biasanya
+  berada di atas
+
+- tag <body></body> di tag ini lah kita membuat sourc code yang akan menjadi sbeuah website yang menarik, berbagai tag dan element
+  berada di bungkus pada body
+
+- tag <p></p> untuk membuat sebuah paragraf
